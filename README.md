@@ -1,7 +1,7 @@
 # 🎧 Benedict Mühln
 **`Digital Craftsman (Developer/Musician)`**
 
-*Better known as **Hydrateurself** to remind you on drinking some fresh water while coding all day and night*
+*Better known as **Hydrateurself** to remind you on drinking some fresh water*
 
 ``` Typescript
 const = "Full Stack Developer with a heart for nature 🌱".
