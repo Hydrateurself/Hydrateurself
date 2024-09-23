@@ -12,11 +12,13 @@ for(fascination){
 repeat(); 
 }
 
-let alive = 💚
-if(alive === true){
+let learning = true
+if(learning){
 
-return ("Creative individual on his journey through space and time 🌞.")
+return ("I love to learn and explore 📝")
 
+}else{
+throw new Error("404 sorry ❌")
 }
 ```
 
