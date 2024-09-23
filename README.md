@@ -1,5 +1,5 @@
 # 🎧 Benedict Mühln
-**`Digital Craftsman (Developer/Musician)`**
+**`Developer/Musician`**
 
 *Better known as **Hydrateurself** to remind you on drinking some fresh water*
 
