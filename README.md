@@ -15,7 +15,7 @@ repeat();
 let learning = true
 if(learning){
 
-return ("I love to learn and explore 📝")
+return ("Loving to learn and explore 📝")
 
 }else{
 throw new Error("404 sorry ❌")
