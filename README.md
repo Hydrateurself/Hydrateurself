@@ -6,6 +6,8 @@
 ``` Typescript
 Full Stack Developer
 
+```
+
 <p align="center"> <kbd><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJibzU1Y3JjOWV6b2t0MmVzZnliYXJpczQ0NWQxaG9mNGU2dWZybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CS1EfWWymZPeo/giphy.webp" alt="Good old nyan cat" width="300px" height="300px" /></kbd></p>
 
 <hr>
