@@ -1,27 +1,10 @@
 # 🎧 Benedict Mühln
 **`Developer/Musician`**
 
-*Better known as **Hydrateurself** to remind you on drinking some fresh water*
+*Better known as **Hydrateurself** *
 
 ``` Typescript
-const = "Full Stack Developer with a heart for nature 🌱".
-
-let fascination = "Fascinated by everything inside and outside our stratosphere 💫"
-
-for(fascination){
-repeat(); 
-}
-
-let learning = true
-if(learning){
-
-return ("Loving to learn and explore 📝")
-
-}else{
-throw new Error("404 sorry ❌")
-}
-```
-
+Full Stack Developer
 
 <p align="center"> <kbd><img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnJibzU1Y3JjOWV6b2t0MmVzZnliYXJpczQ0NWQxaG9mNGU2dWZybSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CS1EfWWymZPeo/giphy.webp" alt="Good old nyan cat" width="300px" height="300px" /></kbd></p>
 
